@@ -6,6 +6,8 @@
 - Component and templating interaction
 - Bi-directional data binding
 
-##### Thanks to @github/joshuamorony
-##### [Website] (https://github.com/joshuamorony)
-##### [Youtube Channel] (https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw)
+##### [Joshua Morony GitHub](https://github.com/joshuamorony)
+##### [Joshua Morony Website](https://github.com/joshuamorony)
+##### [Joshua Morony Youtube Channel](https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw)
+
+
